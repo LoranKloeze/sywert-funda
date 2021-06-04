@@ -18,8 +18,5 @@ const cssEl = document.createElement('link')
 cssEl.type = 'text/css'
 cssEl.rel = 'stylesheet'
 cssEl.media = 'all'
-cssEl.href = chrome.runtime.getURL('style.css')
-cssEl.onload = function () {
-  this.remove()
-};
+cssEl.href = chrome.runtime.getURL('style.css');
 (document.head || document.documentElement).appendChild(cssEl)
