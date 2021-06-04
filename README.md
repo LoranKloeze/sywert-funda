@@ -35,4 +35,10 @@ Deze extensie is niet te vinden in de Chrome store op dit moment maar zelf insta
 
 ## FAQ
 
-🤣
+Wanneer bok je op met je 'constructieve kritiek':
+- Waarom gebruik je niet LiBrArY X
+- Je gebruikt gLoBaLs
+- Body van methods zijn te LaNg
+- Waar zijn de tEsTs?
+
+Next
