@@ -1,0 +1,21 @@
+{
+  "name": "Sywert currency",
+  "description": "Convert prices on Funda to the Sywert currency.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [{
+    "js": ["content_script.js"],
+    "matches": ["https://www.funda.nl/*"]
+  }],
+  "permissions": ["storage", "activeTab", "scripting"],
+  "icons": {
+    "16": "/images/sywert_16.png",
+    "32": "/images/sywert_32.png",
+    "48": "/images/sywert_48.png",
+    "128": "/images/sywert_128.png"
+  },
+  "web_accessible_resources": [{
+    "resources": ["main.js", "style.css"],
+    "matches": ["https://www.funda.nl/*"]
+  }]
+}
