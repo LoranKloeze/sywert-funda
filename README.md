@@ -3,7 +3,7 @@ Huidige status: pre-alpha 0.00001
 
 Bij hoge uitzondering, een README in het Nederlands aangezien ze buiten Nederland weinig aan deze extensie hebben. Sowieso heb je eigenlijk niks aan deze extensie maar goed.
 
-Heeft deze extensie je dag een beetje goed gemaakt dan is een kleine donatie welkom 😊: 
+Heeft deze extensie je dag een beetje goed gemaakt dan is een kleine donatie welkom 😊. Ik beloof dat alles boven de € 1.000.000 naar een goed doel gaat! 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PHVYMCEVZNLPA)
 
@@ -23,7 +23,7 @@ Bovenin links kun je schakelen tussen de prijzen in euro's of sywerts. Dit wordt
 Deze extensie is niet te vinden in de Chrome store op dit moment maar zelf installeren is niet moeilijk. Volg deze stappen:
 
 1. Klik rechtsboven op _Code_ en kies voor _Download ZIP_
-2. Pak het zip-bestand op een plek waar je het terug kan vinden
+2. Sla het zip-bestand op naar een plek waar je het terug kan vinden
 3. Ga in Chrome naar _chrome://extensions_
 4. Schakel rechtsboven _developer mode_ in
 5. Klik linksboven op _load unpacked_ 
