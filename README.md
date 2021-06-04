@@ -1,4 +1,4 @@
-# Sywert-Funda Chrome Extensions
+# Sywert-Funda Chrome Extension
 Huidige status: pre-alpha 0.00001
 
 Bij hoge uitzondering, een README in het Nederlands aangezien ze buiten Nederland weinig aan deze extensie hebben. Sowieso heb je eigenlijk niks aan deze extensie maar goed.
