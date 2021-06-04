@@ -9,7 +9,7 @@ Heeft deze extensie je dag een beetje goed gemaakt dan is een kleine donatie wel
 
 ## Het idee
 Deze extensie is simpel: met een druk op de knop worden prijzen op de website van Funda getoond in de valuta _Sywert_ in plaats van _Euro_.
-De wisselkeurs van de Sywert is op dit moment € 9.000.000 maar dit kan veranderen al naar gelang de actualiteiten.
+De wisselkoers van de Sywert is op dit moment € 9.000.000 maar dit kan veranderen al naar gelang de actualiteiten.
 
 **Deze extensie converteert alleen de prijzen in de zoekresultaten**
 
