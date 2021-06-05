@@ -12,6 +12,8 @@
   // we don't see this bug floating to the top in the short term.
   const SYWERT_RATE = 9000000
 
+
+  console.log('Welkom bij de Euro->Sywert extensie 🎉🎉🎉')
   // Only activate the extension if Funda search results are in the DOM
   const searchContainer = document.getElementsByClassName('search-content-output')[0]
   if (searchContainer) {
