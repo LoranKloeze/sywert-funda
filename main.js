@@ -36,7 +36,7 @@
     }
   }
 
-  //  Create a container with nice toggler to switch between Euro and Sywert
+  //  Create a container with a nice toggler to switch between Euro and Sywert
   function createUi () {
     const sywertContainer = document.createElement('div')
     sywertContainer.id = 'sywert-container'
@@ -81,7 +81,7 @@
         const newText = `${sywertPrice}`.replace('.', ',') + ' Sywert ' + qualifier
         priceEl.dataset.sywertPrice = newText
       } else {
-      // Not a number, just show the original text
+      // Not a number, something like 'Prijs op aanvraag'. In that case, just show the original text.
         priceEl.dataset.sywertPrice = priceEl.dataset.euroPrice
       }
     }
